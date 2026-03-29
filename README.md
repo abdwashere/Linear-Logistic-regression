@@ -7,3 +7,6 @@ Predicts a student's marks based on input features using a linear regression mod
 
 University_Admission.py  (University Admission Classifier)
 Uses logistic regression to predict whether a student is likely to get admitted based on their profile.
+
+install dependencies 
+pip install scikit-learn numpy matplotlib
