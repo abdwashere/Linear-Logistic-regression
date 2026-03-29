@@ -1,2 +1,2 @@
 # MachineLearningModels
-Couple of python scripts that help students to visualise some basic machine learning models.
+Couple of python scripts that help students to visualise the application of linear Regression
